@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs">
+    <Files>
+      <File FileName="Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" Line="26" Column="1" />
+      <File FileName="Assets/PauseManager.cs" Line="59" Column="51" />
+      <File FileName="Assets/DebugUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Managers/GameOverManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
